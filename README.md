@@ -1,2 +1,2 @@
 # HEY ,   I'm
-<img src=/name.png>
+<img src=/assets/name.png>
