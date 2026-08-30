@@ -1,35 +1,37 @@
-<h1 align="left">👋 Hello There?</h1>
+<h1 align="left">👋 Hi, I'm Shinas</h1>
 
-###
+<p align="left">
+💻 Software Developer • AI Enthusiast • Problem Solver
+</p>
 
-<p align="left">My name is Shinas and I like to code, from Kerala</p>
+## 🚀 About Me
 
-###
+- 🎓 B.Tech in Electronics & Communication
+- 💻 Building full-stack & AI-powered applications
+- 🌱 Exploring Software Testing, Backend & AI
+- ⚡ Passionate about clean code and automation
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning B.tech</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38" alt="Flask"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
 </div>
 
+## 🌟 Interests
 
-
-###
+- 🤖 AI & Machine Learning
+- 🧪 Software Testing & Automation
+- 🌐 Full-Stack Development
+- 🚀 Open Source
