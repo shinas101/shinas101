@@ -102,7 +102,7 @@
 
 <p align="left">
   <a href="https://github.com/shinas101">GitHub</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/shinas-samoon">LinkedIn</a>
 </p>
 
 <p align="left">
